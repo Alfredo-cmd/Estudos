@@ -1,0 +1,15 @@
+/home/alfredo/Estudos/C#/Aulas/Aula10/bin/Debug/net10.0/Aula10
+/home/alfredo/Estudos/C#/Aulas/Aula10/bin/Debug/net10.0/Aula10.deps.json
+/home/alfredo/Estudos/C#/Aulas/Aula10/bin/Debug/net10.0/Aula10.runtimeconfig.json
+/home/alfredo/Estudos/C#/Aulas/Aula10/bin/Debug/net10.0/Aula10.dll
+/home/alfredo/Estudos/C#/Aulas/Aula10/bin/Debug/net10.0/Aula10.pdb
+/home/alfredo/Estudos/C#/Aulas/Aula10/obj/Debug/net10.0/Aula10.GeneratedMSBuildEditorConfig.editorconfig
+/home/alfredo/Estudos/C#/Aulas/Aula10/obj/Debug/net10.0/Aula10.AssemblyInfoInputs.cache
+/home/alfredo/Estudos/C#/Aulas/Aula10/obj/Debug/net10.0/Aula10.AssemblyInfo.cs
+/home/alfredo/Estudos/C#/Aulas/Aula10/obj/Debug/net10.0/Aula10.csproj.CoreCompileInputs.cache
+/home/alfredo/Estudos/C#/Aulas/Aula10/obj/Debug/net10.0/Aula10.sourcelink.json
+/home/alfredo/Estudos/C#/Aulas/Aula10/obj/Debug/net10.0/Aula10.dll
+/home/alfredo/Estudos/C#/Aulas/Aula10/obj/Debug/net10.0/refint/Aula10.dll
+/home/alfredo/Estudos/C#/Aulas/Aula10/obj/Debug/net10.0/Aula10.pdb
+/home/alfredo/Estudos/C#/Aulas/Aula10/obj/Debug/net10.0/Aula10.genruntimeconfig.cache
+/home/alfredo/Estudos/C#/Aulas/Aula10/obj/Debug/net10.0/ref/Aula10.dll
