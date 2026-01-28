@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/alfredo/Estudos/C#/Aulas/Aula12/Aula12.csproj": {}
+    "D:\\Admin\\Documents\\Estudos\\Csharp\\Aulas\\Aula12\\Aula12.csproj": {}
   },
   "projects": {
-    "/home/alfredo/Estudos/C#/Aulas/Aula12/Aula12.csproj": {
+    "D:\\Admin\\Documents\\Estudos\\Csharp\\Aulas\\Aula12\\Aula12.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/alfredo/Estudos/C#/Aulas/Aula12/Aula12.csproj",
+        "projectUniqueName": "D:\\Admin\\Documents\\Estudos\\Csharp\\Aulas\\Aula12\\Aula12.csproj",
         "projectName": "Aula12",
-        "projectPath": "/home/alfredo/Estudos/C#/Aulas/Aula12/Aula12.csproj",
-        "packagesPath": "/home/alfredo/.nuget/packages/",
-        "outputPath": "/home/alfredo/Estudos/C#/Aulas/Aula12/obj/",
+        "projectPath": "D:\\Admin\\Documents\\Estudos\\Csharp\\Aulas\\Aula12\\Aula12.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\Admin\\Documents\\Estudos\\Csharp\\Aulas\\Aula12\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/alfredo/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/home/alfredo/.dotnet/sdk/10.0.102/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
