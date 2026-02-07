@@ -1,0 +1,15 @@
+D:\Admin\Documents\Estudos\Csharp\Aulas\Aula14\bin\Debug\net10.0\Aula14.exe
+D:\Admin\Documents\Estudos\Csharp\Aulas\Aula14\bin\Debug\net10.0\Aula14.deps.json
+D:\Admin\Documents\Estudos\Csharp\Aulas\Aula14\bin\Debug\net10.0\Aula14.runtimeconfig.json
+D:\Admin\Documents\Estudos\Csharp\Aulas\Aula14\bin\Debug\net10.0\Aula14.dll
+D:\Admin\Documents\Estudos\Csharp\Aulas\Aula14\bin\Debug\net10.0\Aula14.pdb
+D:\Admin\Documents\Estudos\Csharp\Aulas\Aula14\obj\Debug\net10.0\Aula14.GeneratedMSBuildEditorConfig.editorconfig
+D:\Admin\Documents\Estudos\Csharp\Aulas\Aula14\obj\Debug\net10.0\Aula14.AssemblyInfoInputs.cache
+D:\Admin\Documents\Estudos\Csharp\Aulas\Aula14\obj\Debug\net10.0\Aula14.AssemblyInfo.cs
+D:\Admin\Documents\Estudos\Csharp\Aulas\Aula14\obj\Debug\net10.0\Aula14.csproj.CoreCompileInputs.cache
+D:\Admin\Documents\Estudos\Csharp\Aulas\Aula14\obj\Debug\net10.0\Aula14.sourcelink.json
+D:\Admin\Documents\Estudos\Csharp\Aulas\Aula14\obj\Debug\net10.0\Aula14.dll
+D:\Admin\Documents\Estudos\Csharp\Aulas\Aula14\obj\Debug\net10.0\refint\Aula14.dll
+D:\Admin\Documents\Estudos\Csharp\Aulas\Aula14\obj\Debug\net10.0\Aula14.pdb
+D:\Admin\Documents\Estudos\Csharp\Aulas\Aula14\obj\Debug\net10.0\Aula14.genruntimeconfig.cache
+D:\Admin\Documents\Estudos\Csharp\Aulas\Aula14\obj\Debug\net10.0\ref\Aula14.dll

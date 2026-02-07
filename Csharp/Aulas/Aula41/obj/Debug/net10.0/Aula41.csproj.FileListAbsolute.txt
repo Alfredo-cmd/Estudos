@@ -1,0 +1,15 @@
+D:\Admin\Documents\Estudos\csharp\Aulas\Aula41\obj\Debug\net10.0\Aula41.GeneratedMSBuildEditorConfig.editorconfig
+D:\Admin\Documents\Estudos\csharp\Aulas\Aula41\obj\Debug\net10.0\Aula41.AssemblyInfoInputs.cache
+D:\Admin\Documents\Estudos\csharp\Aulas\Aula41\obj\Debug\net10.0\Aula41.AssemblyInfo.cs
+D:\Admin\Documents\Estudos\csharp\Aulas\Aula41\obj\Debug\net10.0\Aula41.csproj.CoreCompileInputs.cache
+D:\Admin\Documents\Estudos\csharp\Aulas\Aula41\obj\Debug\net10.0\Aula41.sourcelink.json
+D:\Admin\Documents\Estudos\csharp\Aulas\Aula41\bin\Debug\net10.0\Aula41.exe
+D:\Admin\Documents\Estudos\csharp\Aulas\Aula41\bin\Debug\net10.0\Aula41.deps.json
+D:\Admin\Documents\Estudos\csharp\Aulas\Aula41\bin\Debug\net10.0\Aula41.runtimeconfig.json
+D:\Admin\Documents\Estudos\csharp\Aulas\Aula41\bin\Debug\net10.0\Aula41.dll
+D:\Admin\Documents\Estudos\csharp\Aulas\Aula41\bin\Debug\net10.0\Aula41.pdb
+D:\Admin\Documents\Estudos\csharp\Aulas\Aula41\obj\Debug\net10.0\Aula41.dll
+D:\Admin\Documents\Estudos\csharp\Aulas\Aula41\obj\Debug\net10.0\refint\Aula41.dll
+D:\Admin\Documents\Estudos\csharp\Aulas\Aula41\obj\Debug\net10.0\Aula41.pdb
+D:\Admin\Documents\Estudos\csharp\Aulas\Aula41\obj\Debug\net10.0\Aula41.genruntimeconfig.cache
+D:\Admin\Documents\Estudos\csharp\Aulas\Aula41\obj\Debug\net10.0\ref\Aula41.dll

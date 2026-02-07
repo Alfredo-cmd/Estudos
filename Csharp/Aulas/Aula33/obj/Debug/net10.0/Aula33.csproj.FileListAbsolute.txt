@@ -1,0 +1,15 @@
+D:\Admin\Documents\Estudos\csharp\Aulas\Aula33\obj\Debug\net10.0\Aula33.GeneratedMSBuildEditorConfig.editorconfig
+D:\Admin\Documents\Estudos\csharp\Aulas\Aula33\obj\Debug\net10.0\Aula33.AssemblyInfoInputs.cache
+D:\Admin\Documents\Estudos\csharp\Aulas\Aula33\obj\Debug\net10.0\Aula33.AssemblyInfo.cs
+D:\Admin\Documents\Estudos\csharp\Aulas\Aula33\obj\Debug\net10.0\Aula33.csproj.CoreCompileInputs.cache
+D:\Admin\Documents\Estudos\csharp\Aulas\Aula33\obj\Debug\net10.0\Aula33.sourcelink.json
+D:\Admin\Documents\Estudos\csharp\Aulas\Aula33\bin\Debug\net10.0\Aula33.exe
+D:\Admin\Documents\Estudos\csharp\Aulas\Aula33\bin\Debug\net10.0\Aula33.deps.json
+D:\Admin\Documents\Estudos\csharp\Aulas\Aula33\bin\Debug\net10.0\Aula33.runtimeconfig.json
+D:\Admin\Documents\Estudos\csharp\Aulas\Aula33\bin\Debug\net10.0\Aula33.dll
+D:\Admin\Documents\Estudos\csharp\Aulas\Aula33\bin\Debug\net10.0\Aula33.pdb
+D:\Admin\Documents\Estudos\csharp\Aulas\Aula33\obj\Debug\net10.0\Aula33.dll
+D:\Admin\Documents\Estudos\csharp\Aulas\Aula33\obj\Debug\net10.0\refint\Aula33.dll
+D:\Admin\Documents\Estudos\csharp\Aulas\Aula33\obj\Debug\net10.0\Aula33.pdb
+D:\Admin\Documents\Estudos\csharp\Aulas\Aula33\obj\Debug\net10.0\Aula33.genruntimeconfig.cache
+D:\Admin\Documents\Estudos\csharp\Aulas\Aula33\obj\Debug\net10.0\ref\Aula33.dll

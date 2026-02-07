@@ -1,0 +1,15 @@
+D:\Admin\Documents\Estudos\Csharp\projetos\TurnGameV2\obj\Debug\net10.0\TurnGameV2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Admin\Documents\Estudos\Csharp\projetos\TurnGameV2\obj\Debug\net10.0\TurnGameV2.AssemblyInfoInputs.cache
+D:\Admin\Documents\Estudos\Csharp\projetos\TurnGameV2\obj\Debug\net10.0\TurnGameV2.AssemblyInfo.cs
+D:\Admin\Documents\Estudos\Csharp\projetos\TurnGameV2\obj\Debug\net10.0\TurnGameV2.csproj.CoreCompileInputs.cache
+D:\Admin\Documents\Estudos\Csharp\projetos\TurnGameV2\obj\Debug\net10.0\TurnGameV2.sourcelink.json
+D:\Admin\Documents\Estudos\Csharp\projetos\TurnGameV2\bin\Debug\net10.0\TurnGameV2.exe
+D:\Admin\Documents\Estudos\Csharp\projetos\TurnGameV2\bin\Debug\net10.0\TurnGameV2.deps.json
+D:\Admin\Documents\Estudos\Csharp\projetos\TurnGameV2\bin\Debug\net10.0\TurnGameV2.runtimeconfig.json
+D:\Admin\Documents\Estudos\Csharp\projetos\TurnGameV2\bin\Debug\net10.0\TurnGameV2.dll
+D:\Admin\Documents\Estudos\Csharp\projetos\TurnGameV2\bin\Debug\net10.0\TurnGameV2.pdb
+D:\Admin\Documents\Estudos\Csharp\projetos\TurnGameV2\obj\Debug\net10.0\TurnGameV2.dll
+D:\Admin\Documents\Estudos\Csharp\projetos\TurnGameV2\obj\Debug\net10.0\refint\TurnGameV2.dll
+D:\Admin\Documents\Estudos\Csharp\projetos\TurnGameV2\obj\Debug\net10.0\TurnGameV2.pdb
+D:\Admin\Documents\Estudos\Csharp\projetos\TurnGameV2\obj\Debug\net10.0\TurnGameV2.genruntimeconfig.cache
+D:\Admin\Documents\Estudos\Csharp\projetos\TurnGameV2\obj\Debug\net10.0\ref\TurnGameV2.dll

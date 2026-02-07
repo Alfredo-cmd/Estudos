@@ -1,0 +1,15 @@
+D:\Admin\Documents\Estudos\Csharp\projetos\JogoDaForca\obj\Debug\net10.0\JogoDaForca.GeneratedMSBuildEditorConfig.editorconfig
+D:\Admin\Documents\Estudos\Csharp\projetos\JogoDaForca\obj\Debug\net10.0\JogoDaForca.AssemblyInfoInputs.cache
+D:\Admin\Documents\Estudos\Csharp\projetos\JogoDaForca\obj\Debug\net10.0\JogoDaForca.AssemblyInfo.cs
+D:\Admin\Documents\Estudos\Csharp\projetos\JogoDaForca\obj\Debug\net10.0\JogoDaForca.csproj.CoreCompileInputs.cache
+D:\Admin\Documents\Estudos\Csharp\projetos\JogoDaForca\obj\Debug\net10.0\JogoDaForca.sourcelink.json
+D:\Admin\Documents\Estudos\Csharp\projetos\JogoDaForca\bin\Debug\net10.0\JogoDaForca.exe
+D:\Admin\Documents\Estudos\Csharp\projetos\JogoDaForca\bin\Debug\net10.0\JogoDaForca.deps.json
+D:\Admin\Documents\Estudos\Csharp\projetos\JogoDaForca\bin\Debug\net10.0\JogoDaForca.runtimeconfig.json
+D:\Admin\Documents\Estudos\Csharp\projetos\JogoDaForca\bin\Debug\net10.0\JogoDaForca.dll
+D:\Admin\Documents\Estudos\Csharp\projetos\JogoDaForca\bin\Debug\net10.0\JogoDaForca.pdb
+D:\Admin\Documents\Estudos\Csharp\projetos\JogoDaForca\obj\Debug\net10.0\JogoDaForca.dll
+D:\Admin\Documents\Estudos\Csharp\projetos\JogoDaForca\obj\Debug\net10.0\refint\JogoDaForca.dll
+D:\Admin\Documents\Estudos\Csharp\projetos\JogoDaForca\obj\Debug\net10.0\JogoDaForca.pdb
+D:\Admin\Documents\Estudos\Csharp\projetos\JogoDaForca\obj\Debug\net10.0\JogoDaForca.genruntimeconfig.cache
+D:\Admin\Documents\Estudos\Csharp\projetos\JogoDaForca\obj\Debug\net10.0\ref\JogoDaForca.dll
